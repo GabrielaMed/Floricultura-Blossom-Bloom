@@ -1,7 +1,6 @@
 # Floricultura-Blossom-Bloom
 
-programa
-{
+programa{
 	funcao inicio() 
 	{
 	
